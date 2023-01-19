@@ -1,2 +1,2 @@
-# PDS-WordPress-Block-Theme
+# PDS WordPress Block Theme
 Portable Design System WordPress Block Theme
