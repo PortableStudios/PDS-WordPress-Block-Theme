@@ -1,0 +1,10 @@
+{
+  "name": "pds-wordpress-block-theme",
+  "version": "0.0.1",
+  "repository": "https://github.com/PortableStudios/PDS-WordPress-Block-Theme",
+  "author": "Elly Loel <hello@ellyloel.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@portablestudios/figma2theme": "^0.8.1"
+  }
+}
